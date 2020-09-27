@@ -2,7 +2,7 @@
 
 <a href="https://jeffhoffmanmba.github.io/Plot.ly_Belly-Button-Biodiversity" target="_blank">https://jeffhoffmanmba.github.io/Plot.ly_Belly-Button-Biodiversity</a>
 
-![alt test](https://github.com/jeffhoffmanmba/Plot.ly_Belly-Button-Biodiversity/blob/master/Screenshot_id_940_default.jpg)
+![alt test](https://github.com/jeffhoffmanmba/Plot.ly_Belly-Button-Biodiversity/blob/master/Images/Screenshot_id_940_default.jpg)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
