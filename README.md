@@ -2,6 +2,8 @@
 
 <a href="https://jeffhoffmanmba.github.io/Plot.ly_Belly-Button-Biodiversity" target="_blank">https://jeffhoffmanmba.github.io/Plot.ly_Belly-Button-Biodiversity</a>
 
+![alt test](https://github.com/jeffhoffmanmba/python-api-challenge/blob/master/starter_code/equatorsign.png)
+
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
@@ -77,4 +79,5 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 - - -
 
 © 2019 Trilogy Education Services
+
 
